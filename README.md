@@ -164,7 +164,7 @@ saucedemo_automation/
 
 ```bash
 # 1. Clone the repository
-git clone <repository-url>
+git clone https://github.com/ghanemhassan/SauceDemo_Selenium_Automation_Framework_V1.git
 cd saucedemo_automation
 
 # 2. Create and activate a virtual environment (recommended)
